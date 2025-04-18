@@ -1,4 +1,10 @@
-D 'DEA': Data envelopment analysis
+D 'cquad': Maximum likelihood estimation of quadratic exponential models Use cquad (cquadbasic and cquadpseudo and cquadequ and cquadext) With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F cquadbasic.ado
+F cquadbasic.sthlp
+F cquadequ.ado
+F cquadequ.sthlp
+F cquadext.ado
+F cquadext.sthlp
+F cquadpseudo.ado
+F cquadpseudo.sthlp
