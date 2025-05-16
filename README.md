@@ -1,6 +1,8 @@
 # cquad_stata
 Maximum likelihood estimation of quadratic exponential models Use cquad (cquadbasic and cquadpseudo and cquadequ and cquadext) With STATA 19
 
+https://www.youtube.com/watch?v=uNEcrQL7HMA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
